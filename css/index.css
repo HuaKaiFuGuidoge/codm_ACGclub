@@ -1,0 +1,48 @@
+
+.box {
+    width: 95%;
+    height: 100%;
+    color: #000000;
+    background: #ffffff;
+    padding: 10px;
+    border: 10px;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+.logo_title {
+    display: block; 
+    margin-left: 20%;
+    margin-right: auto;
+    width: 50%;
+}
+
+hr {
+    width: 95%;
+    margin: 10px auto;
+    color: rgb(200, 200, 200);
+}
+
+h2 {
+    font-size: 5vw;
+    text-align: center;
+    margin: 5px auto;
+}
+
+.p {
+    font-size: 2vw;
+    margin: 10px auto;
+}
+
+.quote_button {  
+    padding: 10px 20px;  
+    background-color: #4c9baf;
+    border: none;  
+    color: white;   
+    text-decoration: none;  
+    display: inline-block;  
+    font-size: 16px;  
+    margin: 4px 2px;  
+    transition-duration: 0.4s;  
+    cursor: pointer;  
+  }  
